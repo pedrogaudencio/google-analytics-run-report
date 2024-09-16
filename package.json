@@ -1,0 +1,17 @@
+{
+  "name": "google-analytics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node run_report.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-analytics/data": "^4.8.0",
+    "dotenv": "16.4.5",
+    "googleapis": "^144.0.0"
+  }
+}
