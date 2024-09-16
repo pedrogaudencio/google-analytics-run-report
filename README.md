@@ -15,20 +15,23 @@
 
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*u7jf41PxGRaUmdyZ.jpg)
 
-1. copy the email from the service account 
+1. copy the email from the service account (`SERVICE_ACCOUNT_EMAIL`)
 2. select `Manage keys`, create a new key and download the JSON key
 
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*WbFkf95Jox2t8lW4.jpg)
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*-RlRE85IRAEmmOeA.jpg)
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*9TVl73XepWglh6yr.jpg)
 
-3. copy the private key from the JSON file
+3. copy the private key from the JSON file (`SERVICE_ACCOUNT_PRIVATE_KEY`)
 
 #### 4. Add the service account email to the Google Analytics account with read access.
 
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*ZyU7zJf_l5S_NSUG.jpg)
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*a-OLUb2Iu_KVnUvC.jpg)
 
+#### 5. Copy the property id from the Property Details (`PROPERTY_ID`)
+
+![](https://i.ibb.co/X2NrkfC/Screenshot-2024-09-16-at-15-28-06.png)
 
 ### Test
 
